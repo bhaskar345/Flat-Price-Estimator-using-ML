@@ -1,0 +1,5 @@
+fastapi
+xgboost
+uvicorn
+pandas
+Jinja2
